@@ -10,5 +10,8 @@ public class Main {
         int e=5;
         int f=2;
         System.out.println(e*f);
+        int g=10;
+        int h=2;
+        System.out.println(g/h);
     }
 }
