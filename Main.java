@@ -7,5 +7,8 @@ public class Main {
         int c=10;
         int d=5;
         System.out.println(c-d);
+        int e=5;
+        int f=2;
+        System.out.println(e*f);
     }
 }
