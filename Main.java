@@ -33,5 +33,6 @@ public class Main {
         int g=10;
         int h=2;
         System.out.println(g/h);
+
     }
 }
