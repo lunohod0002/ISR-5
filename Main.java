@@ -9,6 +9,9 @@ public class Main {
         for (int q=20;q<30;q++){
             System.out.println(q);
         }
+        for (int w=30;w<40;w++){
+            System.out.println(w);
+        }
 
         System.out.print("Это добавлено в ветке main");
         int a=10;
