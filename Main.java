@@ -6,6 +6,9 @@ public class Main {
         for (int j=10; j<10;j++){
             System.out.println(j);
         }
+        for (int q=20;q<30;q++){
+            System.out.println(q);
+        }
 
     }
 }
