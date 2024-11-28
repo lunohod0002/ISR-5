@@ -21,9 +21,9 @@ public class Main {
 
 
         System.out.print("Это добавлено в ветке main");
-        int a=10;
-        int b=5;
-        System.out.println(a+b);
+        int r=10;
+        int w=5;
+        System.out.println(r+w);
         int c=10;
         int d=5;
         System.out.println(c-d);
